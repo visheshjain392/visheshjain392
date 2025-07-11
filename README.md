@@ -87,16 +87,20 @@
 <p>
   <a href="https://www.linkedin.com/in/visheshjain392"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jainvishesh392@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=visheshjain392&count_private=true&theme=react&border_radius=10&cache_seconds=1800" alt="streak stats"/>
-  <br/>
 
-    ### 📊 GitHub Stats
+      ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visheshjain&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshjain&theme=radical" />
 </p>
+
+
+  <div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=visheshjain392&count_private=true&theme=react&border_radius=10&cache_seconds=1800" alt="streak stats"/>
+  <br/>
+
+
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=visheshjain392&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
