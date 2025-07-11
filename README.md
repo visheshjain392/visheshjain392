@@ -35,8 +35,7 @@
 ### 🧠 Projects I'm Proud Of:
 - ✉️ Spam Mail Detection using Python & Scikit‑learn  
 - 🤖 Diabetes Prediction using ML  
-- 📱 Android App — Pomodoro Timer with React Native  
-- 💻 (Add your additional projects here...)
+- 📱 Web App — Pomodoro Timer with React  
 
 ---
 
