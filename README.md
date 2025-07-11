@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishesh Jain</h1>
-<h3 align="center">A AI/ML Engineer and Data Scientist</h3>
+<h3 align="center">A passionate AI/ML Engineer & Data Scientist Enthusiast</h3>
 
 - 🔭 I’m currently working on ML, Data Science & Full Stack
 - 🌱 I’m learning AI, Deep Learning, Advanced Algorithms in ML & Cloud Technologies
