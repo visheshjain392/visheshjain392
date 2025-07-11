@@ -1,29 +1,24 @@
 <h1 align="center">Hi 👋, I'm Vishesh Jain</h1>
-<h3 align="center">A passionate AI/ML & Data Science Enthusiast</h3>
+<h3 align="center">A passionate Software Engineer & Tech Enthusiast</h3>
 
-- 🔭 I’m currently working on **ML and Data Science projects**
-
-- 🌱 I’m currently learning **Deep Learning and Advanced ML**
-
-- 👯 I’m looking to collaborate on **Open Source AI/ML Projects**
-
-- 💬 Ask me about **Python, Pandas, Machine Learning**
-
-- 📫 How to reach me **visheshjain@email.com** *(replace with your real email)*
-
-- 📄 Know about my experiences [Resume Link](https://link-to-your-resume)
+- 🔭 I’m currently working on **ML, Data Science & Backend Engineering projects**
+- 🌱 I’m learning **Deep Learning, Advanced Algorithms & Cloud Technologies**
+- 👯 I love collaborating on **Open‑Source Software & Hackathons**
+- 💬 Ask me about **Java, Python, C++, Machine Learning, Data Structures, Algorithms, Android Development**
+- 📫 Connect via **your-email@example.com**
+- 📄 View my resume here: [Resume Link](https://link-to-your-resume)
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages, Tools & Skills:
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Android–Development-3DDC84?style=flat&logo=android&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Data–Science-F7931E?style=flat&logo=pandas"/>  
+  <img src="https://img.shields.io/badge/Machine–Learning-FF6F00?style=flat&logo=scikit-learn"/>  
+  <img src="https://img.shields.io/badge/Competitive–Programming-4A90E2"/>  
 </p>
 
 ---
@@ -38,14 +33,15 @@
 ---
 
 ### 🧠 Projects I'm Proud Of:
-- ✉️ Spam Mail Detection using Python & Sklearn  
+- ✉️ Spam Mail Detection using Python & Scikit‑learn  
 - 🤖 Diabetes Prediction using ML  
-- ⏱️ Pomodoro Timer App with React + Tailwind
+- 📱 Android App — Pomodoro Timer with React Native  
+- 💻 (Add your additional projects here...)
 
 ---
 
 ### 🔗 Connect with me:
 <p>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="jainvishesh392@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
