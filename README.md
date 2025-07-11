@@ -92,7 +92,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visheshjain392&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshjain392&theme=radical" />
 </p>
 
 
