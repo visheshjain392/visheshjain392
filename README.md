@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishesh Jain</h1>
-<h3 align="center">A passionate Software Engineer & Tech Enthusiast</h3>
+<h3 align="center">A AI/ML Engineer and Data Scientist</h3>
 
-- 🔭 I’m currently working on **ML, Data Science & Backend Engineering projects**
-- 🌱 I’m learning **Deep Learning, Advanced Algorithms & Cloud Technologies**
-- 👯 I love collaborating on **Open‑Source Software & Hackathons**
-- 💬 Ask me about **Java, Python, C++, Machine Learning, Data Structures, Algorithms, Android Development**
-- 📫 Connect via **your-email@example.com**
+- 🔭 I’m currently working on ML, Data Science & Full Stack
+- 🌱 I’m learning AI, Deep Learning, Advanced Algorithms in ML & Cloud Technologies
+- 💬 Ask me about Python, Machine Learning, Data Structures, Algorithms, Web Development, Data Science
+- 📫 Connect via jainvishesh392@gmail.com
+- +91 86020 83827
 - 📄 View my resume here: [Resume Link](https://link-to-your-resume)
 
 ### 🛠️ Languages, Frameworks & Tools:
@@ -88,7 +88,7 @@
   <a href="https://www.linkedin.com/in/visheshjain392"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jainvishesh392@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
-      ### 📊 GitHub Stats
+ ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=visheshjain392&show_icons=true&theme=radical" />
   <br/>
