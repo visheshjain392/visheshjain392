@@ -6,7 +6,7 @@
 - 💬 Ask me about Python, Machine Learning, Data Structures, Algorithms, Web Development, Data Science
 - 📫 Connect via jainvishesh392@gmail.com
 - +91 86020 83827
-- 📄 View my resume here: [Resume Link](https://link-to-your-resume)
+- 📄 View my resume here: [[Resume Link](https://visheshportfolio.my.canva.site/vishesh-jain)](https://link-to-your-resume)
 
 ### 🛠️ Languages, Frameworks & Tools:
 <p>
