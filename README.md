@@ -33,6 +33,14 @@
   <img src="https://img.shields.io/badge/Data%20Preprocessing-DAA520?style=flat"/>
   <img src="https://img.shields.io/badge/Data%20Visualization-FF5733?style=flat"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat"/>
+  <!-- OpenCV -->
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<!-- Excel -->
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+<!-- EDA (custom, since no official logo) -->
+<img src="https://img.shields.io/badge/EDA-FFB300?style=flat&logo=data-bricks&logoColor=white" />
+<!-- Power BI -->
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black"/>
 </p>
 
 ### ⚙️ Cloud, DevOps & MLOps:
