@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishesh Jain</h1>
-<h3 align="center">A passionate AI/ML Engineer & Data Scientist</h3>
+<h3 align="center">A passionate Full-stack Developer & AI/ML Engineer & Data Scientist</h3>
 
-- 🔭 I’m currently working on Machine Learning, Data Science, Data Analytics & Full Stack Technology.
+- 🔭 I’m currently working on Full Stack Technology, Machine Learning, Data Science,& Data Analytics.
 - 🌱 I’m learning AI, Deep Learning, Advanced Algorithms in ML & Cloud Technologies.
 - 💬 Ask me about Python, Machine Learning, Data Science, Data Structures, Algorithms, Web Development.
 - 📫 Connect via jainvishesh392@gmail.com
