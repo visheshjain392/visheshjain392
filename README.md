@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishesh Jain</h1>
+<h1 align="center">Hi, I'm Vishesh Jain</h1>
 <h3 align="center">A passionate Full-stack Developer & AI/ML Engineer & Data Scientist</h3>
 
 - 🔭 I’m currently working on Full Stack Technology, Machine Learning, Data Science,& Data Analytics.
