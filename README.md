@@ -43,17 +43,6 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black"/>
 </p>
 
-### ⚙️ Cloud, DevOps & MLOps:
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</p>
-
 ### 🌐 Web Development:
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5"/>
@@ -73,6 +62,17 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>
 </p>
 
+### ⚙️ Cloud, DevOps & MLOps:
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+</p>
+
 ### 🧠 Soft Skills:
 <p>
   <img src="https://img.shields.io/badge/Time%20Management-FF8C00?style=flat"/>
@@ -83,25 +83,10 @@
 
 ---
 
-### 🧠 Projects I'm Proud Of:
-- ✉️ Spam Mail Detection using Python & Scikit‑learn  
-- 🤖 Diabetes Prediction using ML  
-- 📱 Web App — Pomodoro Timer with React  
-
----
-
 ### 🔗 Connect with me:
 <p>
   <a href="https://www.linkedin.com/in/visheshjain392"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jainvishesh392@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-
- ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=visheshjain392&show_icons=true&theme=radical" />
-  <br/>
-</p>
-
-
   <div align="center">
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=visheshjain392&count_private=true&theme=react&border_radius=10&cache_seconds=1800" alt="streak stats"/>
   <br/>
