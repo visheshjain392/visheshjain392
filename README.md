@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vishesh Jain</h1>
-<h3 align="center">A passionate Full-stack Developer & AI/ML Engineer & Data Scientist</h3>
+<h3 align="center">Full-Stack Developer with Data Analytics and Data Science skills/</h3>
 
 - 🔭 I’m currently working on Full Stack Technology, Machine Learning, Data Science,& Data Analytics.
 - 🌱 I’m learning AI, Deep Learning, Advanced Algorithms in ML & Cloud Technologies.
