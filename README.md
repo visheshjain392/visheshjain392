@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Vishesh Jain</h1>
-<h3 align="center">Data Analyst | Data Science | Machine Learning | SQL | Python | Power BI</h3>
+<h1 align="center">Hi 👋, I'm Vishesh Jain</h1>
+<h3 align="center">Data Analyst | Business Analyst | Data Scientist | Machine Learning Enthusiast</h3>
 
-
-- 🔭 I’m currently working on Data Analytics, Data Science, Machine Learning, and Business Intelligence projects.
-- 🌱 I’m learning Advanced SQL, Power BI, Python, Machine Learning, Deep Learning, and Cloud Technologies.
-- 💬 Ask me about Data Analytics, Python, SQL, Power BI, Excel, Machine Learning, Data Science, and Statistics.- 📫 Connect via jainvishesh392@gmail.com
-- +91 86020 83827
-- 📄 Data Science Portflolio: (https://vishesh-jain-data-vqimns1.gamma.site/))
+- 🔭 I’m currently building projects in **Data Analytics, Business Analytics, Data Science, and Machine Learning**.
+- 🌱 I’m continuously learning **Advanced SQL, Python, Power BI, Machine Learning, Deep Learning, Statistics, and Cloud Technologies**.
+- 💬 Ask me about **Data Analytics, Business Intelligence, Python, SQL, Power BI, Excel, Machine Learning, Data Science, and Statistics**.
+- 📫 Email: **jainvishesh392@gmail.com**
+- 📱 Phone: **+91 86020 83827**
+- 🌐 Portfolio: **https://vishesh-jain-data-vqimns1.gamma.site/**
 
 ## 🛠️ Data Analytics, Data Science & AI
 
